@@ -2,7 +2,7 @@
 
 
 
-**Title:** 
+**Title:** Beetle and Wildfire Interactions: Insights from British Columbian Forests
 
 **Group Members:**
 
