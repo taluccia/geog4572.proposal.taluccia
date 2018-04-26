@@ -26,7 +26,7 @@
 - Aerial video footage might be available
 - Some field data could potentially be integrated
 - Remote sensing analysis from google earth engine platform (see file GEE_sample)
-- Spatial data including: fire perimeters, provincial park boundaries, biogeoclimatic zones, tree species (see spatial data file)
+- Spatial data could include: fire perimeters, provincial park boundaries, biogeoclimatic zones, tree species (spatial data file only includes fire perimeters for now)
 
 **Interface Design:** Storymap
 
