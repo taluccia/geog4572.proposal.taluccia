@@ -33,3 +33,16 @@
 - **[2018 Bark Beetle Forecast for California](https://usfs.maps.arcgis.com/apps/MapJournal/index.html?appid=7b78c5c7a67748808ce298efefceaa46)**
 - **[Forests of Utah, 2015](https://usfs.maps.arcgis.com/apps/MapJournal/index.html?appid=9bb22eed68944e1e89cca9e5eea8339d)**
 - **[Forest Inventory and Analysis Annual Reporting, States](https://usfs.maps.arcgis.com/apps/PublicGallery/index.html?appid=bb59566ba3574c92aa04038aed91276b)**
+
+**Interface Sketch:**
+
+## Beetle and Wildfire Interactions: Insights from British Columbian Forests
+
+### Project Outline and Story Map Sketch
+
+<p> This is the basic outline for our groups final Storymap presentation on the correlation between beetle infestation and natural wildfire disturbance events in Western Canada. We have included ideas on geovisualization tools to be used in this presentation. This outline is subject to changes throughout our work as we find and learn new tools to best visualize our data.</p> 
+
+![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg1.JPG?raw=true)
+![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg2.JPG?raw=true)
+![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg3.JPG?raw=true)  
+![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg4.JPG?raw=true)
