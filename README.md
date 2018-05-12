@@ -52,7 +52,9 @@
 
 #### 1. Color Scheme
 
-We generated out color scheme using a photograph in 
+We generated out color scheme using a photograph in coolors.co
+
+ 
 
 ![image-color-scheme](images/imagecolorscheme.png)
 
