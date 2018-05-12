@@ -54,7 +54,7 @@
 
 We generated out color scheme using a photograph in 
 
-![color cheme](images/colorscheme.png)
+![color cheme](images/imagecolorscheme.png)
 
 
 
