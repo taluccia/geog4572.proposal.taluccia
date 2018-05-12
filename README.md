@@ -45,4 +45,103 @@
 ![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg1.JPG?raw=true)
 ![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg2.JPG?raw=true)
 ![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg3.JPG?raw=true)  
-![Alt Text](https://github.com/taluccia/geog4572.proposal.taluccia/blob/master/images/sketchpg4.JPG?raw=true)
+
+
+
+### Design Scheme
+
+#### 1. Color Scheme
+
+We generated out color scheme using a photograph in 
+
+![color cheme](images/colorscheme.png)
+
+
+
+
+
+Then used coolors.com.
+
+**[Color Scheme](https://coolors.co/export/png/acc4dd-39381a-59584f-bfb085-757f92)**
+
+![color scheme from coolors](images/acc4dd-39381a-59584f-bfb085-757f92.png)
+
+
+
+
+
+#### 2. Font
+
+```javascript
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+```
+
+
+
+```javascript
+ <style>
+        body {
+            font-family: 'Source Sans Pro', sans-serif; font-size: 22px;
+            }
+    </style>
+```
+
+
+
+```javascript
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Font Template Page</title>
+   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Source Sans Pro', sans-serif; font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Source+Sans+Pro</h1>
+<p></p>
+
+
+</body>
+</html>
+```
+
+
+
+#### 3. Icons
+
+Icons to include: envelope for email, search, print, and comment 
+
+```javascript
+<p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p>
+<p>Search icon: <span class="glyphicon glyphicon-search"></span></p>
+<p>Print icon: <span class="glyphicon glyphicon-print"></span></p>
+<p>Comment icon: <span class="glyphicon glyphicon-comment"></span></p>
+```
+
+
+
+
+
+#### 4. Multi-Media
+
+
+
+Potential aerial videos take after beetle outbreak and wildfire (not sure if these are worth using?)
+
+[Aerial video 1](https://photos.app.goo.gl/xIjDaLALEotYM7bY2)
+
+[Aerial Video 2](https://photos.app.goo.gl/yH1S7yELVgiFCQNq6)
+
+
+
+Potential aerial shot for first page
+
+![image](images/IMG_0850.jpg)
+
+
+
