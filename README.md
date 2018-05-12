@@ -145,7 +145,7 @@ Potential aerial videos take after beetle outbreak and wildfire (not sure if the
 
 Potential aerial shot for first page
 
-![image](images/IMG_0850.jpg)
+![aerial image](images/IMG_0850.JPG)
 
 
 
