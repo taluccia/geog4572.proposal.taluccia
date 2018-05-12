@@ -56,7 +56,7 @@ We generated out color scheme using a photograph in coolors.co
 
  
 
-![image-color-scheme](images/coolorsimage.png)
+![image color](images/coolorsimage.png)
 
 
 
