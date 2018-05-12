@@ -149,3 +149,7 @@ Potential aerial shot for first page
 
 
 
+Another multimedia option to integrate, maybe
+
+[Landsat Time Lapse Video](https://earthengine.google.com/timelapse/#v=53.27155,-125.4471,8.628,latLng&t=1.50)
+
